@@ -1,10 +1,5 @@
-Here's an updated version of your README file for the "Olympics Data Analytics Project" with the requested changes:
-
----
-
 # Olympics Data Analytics Project
 
-![Olympics Dashboard](https://github.com/Priyanshu9528/Olympics-Data-Analytics-Project/blob/main/Olympics%20Dashboard.png)
 
 ## Overview
 
@@ -48,8 +43,4 @@ Explore the live dashboard [here](https://app.powerbi.com/groups/me/dashboards/5
 
 The **Olympics Data Analytics Project** provides a detailed overview of Olympic data, helping users explore trends and patterns in sports history. The visualizations are designed to offer a clear understanding of how different countries and athletes have performed over the years.
 
-![Olympics Data Dashboard Preview](https://github.com/Priyanshu9528/Olympics-Data-Analytics-Project/blob/main/Olympics%20Dashboard.png)
-
----
-
-Make sure to upload the dashboard image to your GitHub repository and update the image link in the README file accordingly. This will help the image render correctly when someone views your README on GitHub.
+![Olympics Data Dashboard Preview](https://github.com/Priyanshu9528/Olympics-Data-Analysis-Project/blob/main/Olympics%20Dashboard.png)
